@@ -3,6 +3,13 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+rven/
+.env/
+test.ipynb
+README/
+vector_db/
+Uploaded_files/
+data/
 # C extensions
 *.so
 
