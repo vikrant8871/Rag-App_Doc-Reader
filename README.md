@@ -3,6 +3,9 @@
 A **Retrieval-Augmented Generation (RAG)** based document chat application built with **Streamlit**, **Groq LLMs**, and **ChromaDB**. This app allows users to upload documents (PDF, TXT, DOCX), index them efficiently, and ask natural language questions to get accurate, context-aware answers grounded in their own data.
 
 ---
+## RAG APP working Demo
+
+https://github.com/vikrant8871/Rag-App_Doc-Reader/issues/1#issue-3747620200
 
 ## 🚀 Features
 
