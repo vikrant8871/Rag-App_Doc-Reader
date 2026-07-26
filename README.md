@@ -5,6 +5,8 @@ A **Retrieval-Augmented Generation (RAG)** based document chat application built
 ---
 ## RAG APP working Demo
 
+Click here for the demo !
+
 https://github.com/vikrant8871/Rag-App_Doc-Reader/issues/1#issue-3747620200
 
 ## 🚀 Features
